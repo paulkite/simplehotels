@@ -49,6 +49,7 @@
 		B8CB718F181F3FE800FD1B39 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = B8CB7187181F3FE800FD1B39 /* UIProgressView+AFNetworking.m */; };
 		B8CB7190181F3FE800FD1B39 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = B8CB7189181F3FE800FD1B39 /* UIWebView+AFNetworking.m */; };
 		B8CB7192181F3FFF00FD1B39 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8CB7191181F3FFF00FD1B39 /* Security.framework */; };
+		B8CB7194181F731B00FD1B39 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8CB7193181F731B00FD1B39 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -134,6 +135,7 @@
 		B8CB7188181F3FE800FD1B39 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "Dependencies/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = SOURCE_ROOT; };
 		B8CB7189181F3FE800FD1B39 /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "Dependencies/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = SOURCE_ROOT; };
 		B8CB7191181F3FFF00FD1B39 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		B8CB7193181F731B00FD1B39 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 			children = (
 				639BFEF416DE9E8900928714 /* SHAppDelegate.h */,
 				639BFEF516DE9E8900928714 /* SHAppDelegate.m */,
+				B8CB7193181F731B00FD1B39 /* Images.xcassets */,
 				639BFEEC16DE9E8900928714 /* Supporting Files */,
 			);
 			path = SimpleHotels;
@@ -353,6 +356,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				639BFEF016DE9E8900928714 /* InfoPlist.strings in Resources */,
+				B8CB7194181F731B00FD1B39 /* Images.xcassets in Resources */,
 				639BFEF816DE9E8900928714 /* Default.png in Resources */,
 				639BFEFA16DE9E8900928714 /* Default@2x.png in Resources */,
 				639BFEFC16DE9E8900928714 /* Default-568h@2x.png in Resources */,
@@ -471,6 +475,8 @@
 		639BFF0016DE9E8900928714 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleHotels/SimpleHotels-Prefix.pch";
@@ -484,6 +490,8 @@
 		639BFF0116DE9E8900928714 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleHotels/SimpleHotels-Prefix.pch";
