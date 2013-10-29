@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BEAEBA68-5492-4ABC-98AE-60FE1CED442A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleHotels</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4824FB80-F374-4138-8451-E24E741E945D</key>
+		<string>ssh://team.mobiata.com/iOS/MBRequest.git</string>
+		<key>6E14F45C-B497-4AD6-B2D1-3549098F6CEE</key>
+		<string>ssh://team.mobiata.com/iOS/SimpleHotels.git</string>
+		<key>C19FE080-B7A2-4F9C-90F2-267765884F73</key>
+		<string>git://github.com/AFNetworking/AFNetworking.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleHotels.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4824FB80-F374-4138-8451-E24E741E945D</key>
+		<string>../../Dependencies/MBRequest</string>
+		<key>6E14F45C-B497-4AD6-B2D1-3549098F6CEE</key>
+		<string>../..</string>
+		<key>C19FE080-B7A2-4F9C-90F2-267765884F73</key>
+		<string>../../Dependencies/AFNetworking</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://team.mobiata.com/iOS/SimpleHotels.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E14F45C-B497-4AD6-B2D1-3549098F6CEE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C19FE080-B7A2-4F9C-90F2-267765884F73</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworking</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4824FB80-F374-4138-8451-E24E741E945D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MBRequest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E14F45C-B497-4AD6-B2D1-3549098F6CEE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpleHotels</string>
+		</dict>
+	</array>
+</dict>
+</plist>
