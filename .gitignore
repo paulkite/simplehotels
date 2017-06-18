@@ -1,3 +1,32 @@
+DerivedData/
 /build/
 xcuserdata/
 .DS_Store
+Localizable.strings
+InfoPlist.strings
+Dependencies/gh-unit/
+.ruby-version
+.arcconfig
+*.profraw
+
+# Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+.idea/
+
+# xctool outputs
+compile_commands.json
+junit.xml
+*.gcno
+
+# Carthage
+Carthage
+
+# Ruby
+.bundle/
+vendor/
+
+# Build Swizzling
+Configurations/EntitlementSwizzle.xcconfig

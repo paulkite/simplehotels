@@ -1,6 +1,0 @@
-[submodule "Dependencies/MBRequest"]
-	path = Dependencies/MBRequest
-	url = git@team.mobiata.com:iOS/MBRequest.git
-[submodule "Dependencies/AFNetworking"]
-	path = Dependencies/AFNetworking
-	url = git://github.com/AFNetworking/AFNetworking.git
