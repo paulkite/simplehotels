@@ -20,9 +20,20 @@
 		8E5C914A1EF726880043FC4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5C91491EF726880043FC4C /* AppDelegate.swift */; };
 		8E5C914C1EF72B960043FC4C /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5C914B1EF72B960043FC4C /* Alamofire.framework */; };
 		8E5C914D1EF72B960043FC4C /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5C914B1EF72B960043FC4C /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8E5C91561EF7351F0043FC4C /* SimpleHotelsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5C91551EF7351F0043FC4C /* SimpleHotelsTests.swift */; };
 		B8CB7192181F3FFF00FD1B39 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8CB7191181F3FFF00FD1B39 /* Security.framework */; };
 		B8CB7194181F731B00FD1B39 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8CB7193181F731B00FD1B39 /* Images.xcassets */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8E5C91581EF7351F0043FC4C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 639BFEDA16DE9E8800928714 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 639BFEE116DE9E8800928714;
+			remoteInfo = SimpleHotels;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		8E5C914E1EF72B960043FC4C /* Embed Frameworks */ = {
@@ -53,6 +64,9 @@
 		639BFF5A16DEA49100928714 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		8E5C91491EF726880043FC4C /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E5C914B1EF72B960043FC4C /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		8E5C91531EF7351F0043FC4C /* SimpleHotelsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleHotelsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E5C91551EF7351F0043FC4C /* SimpleHotelsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleHotelsTests.swift; sourceTree = "<group>"; };
+		8E5C91571EF7351F0043FC4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8CB7191181F3FFF00FD1B39 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		B8CB7193181F731B00FD1B39 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +87,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8E5C91501EF7351F0043FC4C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -80,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				639BFEEB16DE9E8800928714 /* SimpleHotels */,
+				8E5C91541EF7351F0043FC4C /* SimpleHotelsTests */,
 				639BFEE416DE9E8800928714 /* Frameworks */,
 				639BFEE316DE9E8800928714 /* Products */,
 			);
@@ -89,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				639BFEE216DE9E8800928714 /* SimpleHotels.app */,
+				8E5C91531EF7351F0043FC4C /* SimpleHotelsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -130,6 +153,15 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		8E5C91541EF7351F0043FC4C /* SimpleHotelsTests */ = {
+			isa = PBXGroup;
+			children = (
+				8E5C91551EF7351F0043FC4C /* SimpleHotelsTests.swift */,
+				8E5C91571EF7351F0043FC4C /* Info.plist */,
+			);
+			path = SimpleHotelsTests;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -151,6 +183,24 @@
 			productReference = 639BFEE216DE9E8800928714 /* SimpleHotels.app */;
 			productType = "com.apple.product-type.application";
 		};
+		8E5C91521EF7351F0043FC4C /* SimpleHotelsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8E5C915A1EF7351F0043FC4C /* Build configuration list for PBXNativeTarget "SimpleHotelsTests" */;
+			buildPhases = (
+				8E5C914F1EF7351F0043FC4C /* Sources */,
+				8E5C91501EF7351F0043FC4C /* Frameworks */,
+				8E5C91511EF7351F0043FC4C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8E5C91591EF7351F0043FC4C /* PBXTargetDependency */,
+			);
+			name = SimpleHotelsTests;
+			productName = SimpleHotelsTests;
+			productReference = 8E5C91531EF7351F0043FC4C /* SimpleHotelsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -158,11 +208,18 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = SH;
+				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Expedia, Inc.";
 				TargetAttributes = {
 					639BFEE116DE9E8800928714 = {
 						LastSwiftMigration = 0830;
+						ProvisioningStyle = Manual;
+					};
+					8E5C91521EF7351F0043FC4C = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 639BFEE116DE9E8800928714;
 					};
 				};
 			};
@@ -179,6 +236,7 @@
 			projectRoot = "";
 			targets = (
 				639BFEE116DE9E8800928714 /* SimpleHotels */,
+				8E5C91521EF7351F0043FC4C /* SimpleHotelsTests */,
 			);
 		};
 /* End PBXProject section */
@@ -196,6 +254,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8E5C91511EF7351F0043FC4C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -207,7 +272,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8E5C914F1EF7351F0043FC4C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E5C91561EF7351F0043FC4C /* SimpleHotelsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8E5C91591EF7351F0043FC4C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 639BFEE116DE9E8800928714 /* SimpleHotels */;
+			targetProxy = 8E5C91581EF7351F0043FC4C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		639BFEEE16DE9E8900928714 /* InfoPlist.strings */ = {
@@ -282,6 +363,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -292,6 +374,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = app;
@@ -305,6 +388,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -315,8 +399,83 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		8E5C915B1EF7351F0043FC4C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = SimpleHotelsTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.expedia.SimpleHotelsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleHotels.app/SimpleHotels";
+			};
+			name = Debug;
+		};
+		8E5C915C1EF7351F0043FC4C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = SimpleHotelsTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = com.expedia.SimpleHotelsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleHotels.app/SimpleHotels";
 			};
 			name = Release;
 		};
@@ -340,6 +499,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		8E5C915A1EF7351F0043FC4C /* Build configuration list for PBXNativeTarget "SimpleHotelsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E5C915B1EF7351F0043FC4C /* Debug */,
+				8E5C915C1EF7351F0043FC4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
