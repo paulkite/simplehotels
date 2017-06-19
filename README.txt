@@ -7,7 +7,7 @@ If you opt not to use Alamofire be sure to remove its references from the projec
 
 The app should contain the following 3 view controllers:
 
-1) A list view (table view) of hotels with a segmented control or button to switch between hotels from 2 different cities: San Francisco and Minneapolis. The data you should display can be found at the following URLs:
+1) A list view (table view) of hotels with a segmented control or button to switch between hotels from 2 different cities: San Francisco and Chicago. The data you should display can be found at the following URLs:
 
 https://techblog.expedia.com/utility/chicago-hotels.json
 https://techblog.expedia.com/utility/san-francisco-hotels.json
