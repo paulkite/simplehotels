@@ -8,6 +8,8 @@
 
 import XCTest
 
+@testable import SimpleHotels
+
 class SimpleHotelsTests: XCTestCase {
     
     override func setUp() {
