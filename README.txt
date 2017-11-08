@@ -23,3 +23,5 @@ Don't worry about what the different prices mean in the data. Just pick any of t
 
 
 3) Map view. Show the location of the hotel on a map.
+
+*note: media URLs should append https://media.expedia.com
