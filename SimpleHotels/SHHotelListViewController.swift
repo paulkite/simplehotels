@@ -17,6 +17,8 @@ class SHHotelListViewController: UIViewController {
     let urls = ["https://techblog.expedia.com/utility/san-francisco-hotels.json",
                 "https://techblog.expedia.com/utility/chicago-hotels.json"]
     
+    let baseUrl = "https://media.expedia.com"
+    
     @IBOutlet weak var tableView: UITableView!
     
     override func viewDidLoad() {
@@ -124,7 +126,8 @@ extension SHHotelListViewController: UITableViewDataSource {
         let rate = hotel ["lowRate"] as! String
         let currency = hotel ["rateCurrencyCode"] as! String
         cell.priceLabel.text = String.init(format: "\(rate) \(currency)")
-        cell.thumbnailView?.loadImageFrom(link: (hotel ["thumbnailUrl"] as? String)!, withPlaceHolder: UIImage.init(named: "hotel_icon.png")!)
+        let fullUrl = String.init(format: "\(baseUrl)\(hotel ["thumbnailUrl"] as! String)")
+        cell.thumbnailView?.loadImageFrom(link: fullUrl, withPlaceHolder: UIImage.init(named: "hotel_icon.png")!)
         
         return cell
     }

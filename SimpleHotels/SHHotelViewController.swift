@@ -21,6 +21,7 @@ class SHHotelViewController: UIViewController {
     @IBOutlet weak var floatRatingView: FloatRatingView!
     
     public var hotel = [String : AnyObject]()
+    let baseUrl = "https://media.expedia.com"
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -33,7 +34,8 @@ class SHHotelViewController: UIViewController {
         priceLabel.text = String.init(format: "\(rate) \(currency)")
         detailsLabel.text = hotel ["hotelDescription"] as? String
         
-        hotelImage.loadImageFrom(link: (hotel ["largeThumbnailUrl"] as? String)!, withPlaceHolder: UIImage.init(named: "placeholder.jpg")!)
+        let fullUrl = String.init(format: "\(baseUrl)\(hotel ["largeThumbnailUrl"] as! String)")
+        hotelImage.loadImageFrom(link: fullUrl, withPlaceHolder: UIImage.init(named: "placeholder.jpg")!)
         
         topContentsView.layer.cornerRadius = 20.0
         bottomContentsView.layer.cornerRadius = 20.0
