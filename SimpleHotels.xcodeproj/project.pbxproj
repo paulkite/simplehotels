@@ -18,9 +18,17 @@
 		639BFF5916DEA48C00928714 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 639BFF5816DEA48C00928714 /* SystemConfiguration.framework */; };
 		639BFF5B16DEA49100928714 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 639BFF5A16DEA49100928714 /* MobileCoreServices.framework */; };
 		8E5C914A1EF726880043FC4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5C91491EF726880043FC4C /* AppDelegate.swift */; };
-		8E5C914C1EF72B960043FC4C /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5C914B1EF72B960043FC4C /* Alamofire.framework */; };
-		8E5C914D1EF72B960043FC4C /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 8E5C914B1EF72B960043FC4C /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		8E5C91561EF7351F0043FC4C /* SimpleHotelsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5C91551EF7351F0043FC4C /* SimpleHotelsTests.swift */; };
+		9F71152B1FB260A70059C532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F71152A1FB260A70059C532 /* Main.storyboard */; };
+		9F71152F1FB261150059C532 /* SHHotelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F71152E1FB261150059C532 /* SHHotelViewController.swift */; };
+		9F7115311FB261390059C532 /* SHHotelListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7115301FB261390059C532 /* SHHotelListViewController.swift */; };
+		9F7115341FB2708B0059C532 /* SHHotelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7115331FB2708B0059C532 /* SHHotelCell.swift */; };
+		9F7115701FB277AF0059C532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F71156F1FB277AF0059C532 /* LaunchScreen.storyboard */; };
+		9F7115751FB28FF40059C532 /* SHMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7115741FB28FF40059C532 /* SHMapViewController.swift */; };
+		9F7115771FB2A4D30059C532 /* UIImage+Lazy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7115761FB2A4D30059C532 /* UIImage+Lazy.swift */; };
+		9F71157A1FB2A6A30059C532 /* placeholder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F7115791FB2A6A30059C532 /* placeholder.jpg */; };
+		9F71157C1FB2A9740059C532 /* hotel_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F71157B1FB2A9740059C532 /* hotel_icon.png */; };
+		9FAF6C3A1FB2CAAE0078A9F3 /* FloatRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAF6C391FB2CAAE0078A9F3 /* FloatRatingView.swift */; };
 		B8CB7192181F3FFF00FD1B39 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8CB7191181F3FFF00FD1B39 /* Security.framework */; };
 		B8CB7194181F731B00FD1B39 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8CB7193181F731B00FD1B39 /* Images.xcassets */; };
 /* End PBXBuildFile section */
@@ -42,7 +50,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				8E5C914D1EF72B960043FC4C /* Alamofire.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -63,10 +70,19 @@
 		639BFF5816DEA48C00928714 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		639BFF5A16DEA49100928714 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		8E5C91491EF726880043FC4C /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8E5C914B1EF72B960043FC4C /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
 		8E5C91531EF7351F0043FC4C /* SimpleHotelsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleHotelsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E5C91551EF7351F0043FC4C /* SimpleHotelsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleHotelsTests.swift; sourceTree = "<group>"; };
 		8E5C91571EF7351F0043FC4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F71152A1FB260A70059C532 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		9F71152E1FB261150059C532 /* SHHotelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHHotelViewController.swift; sourceTree = "<group>"; };
+		9F7115301FB261390059C532 /* SHHotelListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHHotelListViewController.swift; sourceTree = "<group>"; };
+		9F7115331FB2708B0059C532 /* SHHotelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHHotelCell.swift; sourceTree = "<group>"; };
+		9F71156F1FB277AF0059C532 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9F7115741FB28FF40059C532 /* SHMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHMapViewController.swift; sourceTree = "<group>"; };
+		9F7115761FB2A4D30059C532 /* UIImage+Lazy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Lazy.swift"; sourceTree = "<group>"; };
+		9F7115791FB2A6A30059C532 /* placeholder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = placeholder.jpg; sourceTree = "<group>"; };
+		9F71157B1FB2A9740059C532 /* hotel_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hotel_icon.png; sourceTree = "<group>"; };
+		9FAF6C391FB2CAAE0078A9F3 /* FloatRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatRatingView.swift; sourceTree = "<group>"; };
 		B8CB7191181F3FFF00FD1B39 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		B8CB7193181F731B00FD1B39 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -83,7 +99,6 @@
 				639BFEE616DE9E8800928714 /* UIKit.framework in Frameworks */,
 				639BFEE816DE9E8800928714 /* Foundation.framework in Frameworks */,
 				639BFEEA16DE9E8800928714 /* CoreGraphics.framework in Frameworks */,
-				8E5C914C1EF72B960043FC4C /* Alamofire.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,7 +134,6 @@
 		639BFEE416DE9E8800928714 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				8E5C914B1EF72B960043FC4C /* Alamofire.framework */,
 				639BFEE916DE9E8800928714 /* CoreGraphics.framework */,
 				639BFEE716DE9E8800928714 /* Foundation.framework */,
 				639BFF5A16DEA49100928714 /* MobileCoreServices.framework */,
@@ -134,7 +148,14 @@
 		639BFEEB16DE9E8800928714 /* SimpleHotels */ = {
 			isa = PBXGroup;
 			children = (
+				9F7115781FB2A4DB0059C532 /* Lib */,
+				9F7115301FB261390059C532 /* SHHotelListViewController.swift */,
+				9F71152E1FB261150059C532 /* SHHotelViewController.swift */,
+				9F7115741FB28FF40059C532 /* SHMapViewController.swift */,
 				8E5C91491EF726880043FC4C /* AppDelegate.swift */,
+				9F71152A1FB260A70059C532 /* Main.storyboard */,
+				9F71156F1FB277AF0059C532 /* LaunchScreen.storyboard */,
+				9F7115321FB270560059C532 /* Cells */,
 				B8CB7193181F731B00FD1B39 /* Images.xcassets */,
 				639BFEEC16DE9E8900928714 /* Supporting Files */,
 			);
@@ -144,6 +165,8 @@
 		639BFEEC16DE9E8900928714 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9F71157B1FB2A9740059C532 /* hotel_icon.png */,
+				9F7115791FB2A6A30059C532 /* placeholder.jpg */,
 				639BFEED16DE9E8900928714 /* SimpleHotels-Info.plist */,
 				639BFEEE16DE9E8900928714 /* InfoPlist.strings */,
 				639BFEF716DE9E8900928714 /* Default.png */,
@@ -160,6 +183,23 @@
 				8E5C91571EF7351F0043FC4C /* Info.plist */,
 			);
 			path = SimpleHotelsTests;
+			sourceTree = "<group>";
+		};
+		9F7115321FB270560059C532 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				9F7115331FB2708B0059C532 /* SHHotelCell.swift */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		9F7115781FB2A4DB0059C532 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				9F7115761FB2A4D30059C532 /* UIImage+Lazy.swift */,
+				9FAF6C391FB2CAAE0078A9F3 /* FloatRatingView.swift */,
+			);
+			name = Lib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,8 +253,9 @@
 				ORGANIZATIONNAME = "Expedia, Inc.";
 				TargetAttributes = {
 					639BFEE116DE9E8800928714 = {
+						DevelopmentTeam = 26AN786FKE;
 						LastSwiftMigration = 0830;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					8E5C91521EF7351F0043FC4C = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -248,9 +289,13 @@
 			files = (
 				639BFEF016DE9E8900928714 /* InfoPlist.strings in Resources */,
 				B8CB7194181F731B00FD1B39 /* Images.xcassets in Resources */,
+				9F71157A1FB2A6A30059C532 /* placeholder.jpg in Resources */,
 				639BFEF816DE9E8900928714 /* Default.png in Resources */,
+				9F71152B1FB260A70059C532 /* Main.storyboard in Resources */,
+				9F7115701FB277AF0059C532 /* LaunchScreen.storyboard in Resources */,
 				639BFEFA16DE9E8900928714 /* Default@2x.png in Resources */,
 				639BFEFC16DE9E8900928714 /* Default-568h@2x.png in Resources */,
+				9F71157C1FB2A9740059C532 /* hotel_icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +314,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E5C914A1EF726880043FC4C /* AppDelegate.swift in Sources */,
+				9F7115751FB28FF40059C532 /* SHMapViewController.swift in Sources */,
+				9FAF6C3A1FB2CAAE0078A9F3 /* FloatRatingView.swift in Sources */,
+				9F7115311FB261390059C532 /* SHHotelListViewController.swift in Sources */,
+				9F7115771FB2A4D30059C532 /* UIImage+Lazy.swift in Sources */,
+				9F71152F1FB261150059C532 /* SHHotelViewController.swift in Sources */,
+				9F7115341FB2708B0059C532 /* SHHotelCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,7 +414,9 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				DEVELOPMENT_TEAM = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 26AN786FKE;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -389,7 +442,9 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				DEVELOPMENT_TEAM = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 26AN786FKE;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
