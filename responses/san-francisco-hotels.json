@@ -1,0 +1,1177 @@
+{
+	"hotels": [
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "111.30",
+				"averageRate": "111.30",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "18.31",
+				"surchargeTotalForEntireStay": "18.31",
+				"surchargesWithoutPropertyFee": "18.31",
+				"surchargesWithoutPropertyFeeForEntireStay": "18.31",
+				"averageBaseRate": "159.00",
+				"nightlyRateTotal": "111.30",
+				"discountPercent": -30,
+				"total": "129.61",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "18.31",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "18.31",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "159.00",
+						"rate": "111.30"
+					}
+				],
+				"priceToShowUsers": "111",
+				"strikethroughPriceToShowUsers": "159",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "177",
+				"totalMandatoryFees": "38.76",
+				"totalPriceWithMandatoryFees": "168.37",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "33.06"
+					},
+					{
+						"feeName": "Tourism fee",
+						"amount": "5.70"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 168.37",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "163189",
+				"ratePlanCode": "209462829",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "38.76",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 259,
+							"bonus": 336,
+							"total": 595
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "225 Powell St",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"amenities": [
+				{
+					"id": "2192",
+					"description": "Free Wireless Internet"
+				}
+			],
+			"airportCode": "SFO",
+			"discountMessage": "Save 30%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Infused with the spirit of Italy, this romantic downtown San Francisco retreat is on the Powell Street cable car line, less than a block from Union Square; theaters and Market Street are two blocks away.",
+			"hotelGuestRating": "4.0",
+			"hotelId": "5425",
+			"hotelName": "Villa Florence San Francisco on Union Square",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/10000/5500/5425/ccd40151_d.jpg",
+			"latitude": "37.786865",
+			"localizedHotelName": "Villa Florence San Francisco on Union Square",
+			"longitude": "-122.408155",
+			"lowRate": "111.30",
+			"nonLocalizedName": "Villa Florence San Francisco on Union Square",
+			"notAvailableMessage": "",
+			"percentRecommended": "78",
+			"proximityDistanceInKiloMeters": "0.05999999999999999",
+			"proximityDistanceInMiles": "0.03729024238657551",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "2578",
+			"reviewTotal": "3294",
+			"roomsLeftAtThisRate": "19",
+			"shortDiscountMessage": "Save 30%",
+			"sortIndex": "0",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/10000/5500/5425/ccd40151_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "194.65",
+				"averageRate": "194.65",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "32.02",
+				"surchargeTotalForEntireStay": "32.02",
+				"surchargesWithoutPropertyFee": "32.02",
+				"surchargesWithoutPropertyFeeForEntireStay": "32.02",
+				"averageBaseRate": "229.00",
+				"nightlyRateTotal": "194.65",
+				"discountPercent": -15,
+				"total": "226.67",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "32.02",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "32.02",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "229.00",
+						"rate": "194.65"
+					}
+				],
+				"priceToShowUsers": "195",
+				"strikethroughPriceToShowUsers": "229",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "261",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "226.67",
+				"formattedTotalPriceWithMandatoryFees": "$ 226.67",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201263688",
+				"ratePlanCode": "206120886",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 453,
+							"bonus": 588,
+							"total": 1041
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "950 Mason Street Atop Nob Hill",
+				"postalCode": "94108"
+			},
+			"jsonHotelBrand": {
+				"brandId": "209",
+				"brandName": "Fairmont"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "Book now and save!",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Fairmont San Francisco is located atop swanky Nob Hill, the only spot in the city where every cable car line intersects. Guests can hop a ride past the Cable Car Museum to Pier 39 and Fisherman’s Wharf, or walk 4 minutes to Chinatown. Union Square is just a half-mile away.",
+			"hotelGuestRating": "4.5",
+			"hotelId": "18200",
+			"hotelName": "Fairmont San Francisco",
+			"hotelStarRating": "5.0",
+			"hotelStarRatingCssClassName": "5-0",
+			"largeThumbnailUrl": "/hotels/1000000/20000/18200/18200/18200_304_d.jpg",
+			"latitude": "37.79229",
+			"localizedHotelName": "Fairmont San Francisco",
+			"longitude": "-122.41088",
+			"lowRate": "194.65",
+			"nonLocalizedName": "Fairmont San Francisco",
+			"notAvailableMessage": "",
+			"percentRecommended": "89",
+			"proximityDistanceInKiloMeters": "0.593",
+			"proximityDistanceInMiles": "0.3685518955873213",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "4129",
+			"reviewTotal": "4654",
+			"roomsLeftAtThisRate": "8",
+			"shortDiscountMessage": "Promo",
+			"sortIndex": "1",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/20000/18200/18200/18200_304_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "155.38",
+				"averageRate": "155.38",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "25.60",
+				"surchargeTotalForEntireStay": "25.60",
+				"surchargesWithoutPropertyFee": "25.60",
+				"surchargesWithoutPropertyFeeForEntireStay": "25.60",
+				"averageBaseRate": "239.03",
+				"nightlyRateTotal": "155.38",
+				"discountPercent": -35,
+				"total": "180.98",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "25.60",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "25.60",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "239.03",
+						"rate": "155.38"
+					}
+				],
+				"priceToShowUsers": "155",
+				"strikethroughPriceToShowUsers": "239",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "265",
+				"totalMandatoryFees": "28.00",
+				"totalPriceWithMandatoryFees": "208.98",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "28.00"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 208.98",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "200722343",
+				"ratePlanCode": "204989363",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "28.00",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 362,
+							"bonus": 470,
+							"total": 832
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "495 Geary St",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "2178",
+				"brandName": "Morgans Hotel Group"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "Private sale: save 35%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Old-world elegance is suffused with modern glamour in this historic San Francisco hotel 2 blocks from Union Square, a half-mile from the Financial District, and 1 mile from the Embarcadero. Moscone Convention Center and AT&T Park are also nearby.",
+			"hotelGuestRating": "4.2",
+			"hotelId": "21073",
+			"hotelName": "Clift",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/30000/21100/21073/21073_201_d.jpg",
+			"latitude": "37.786954",
+			"localizedHotelName": "Clift",
+			"longitude": "-122.411433",
+			"lowRate": "155.38",
+			"nonLocalizedName": "Clift",
+			"notAvailableMessage": "",
+			"percentRecommended": "83",
+			"proximityDistanceInKiloMeters": "0.288",
+			"proximityDistanceInMiles": "0.17899316345556246",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3023",
+			"reviewTotal": "3664",
+			"roomsLeftAtThisRate": "108",
+			"shortDiscountMessage": "Save 35%",
+			"sortIndex": "2",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/30000/21100/21073/21073_201_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "124.20",
+				"averageRate": "124.20",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "20.25",
+				"surchargeTotalForEntireStay": "20.25",
+				"surchargesWithoutPropertyFee": "20.25",
+				"surchargesWithoutPropertyFeeForEntireStay": "20.25",
+				"averageBaseRate": "230.00",
+				"nightlyRateTotal": "124.20",
+				"discountPercent": -46,
+				"total": "144.45",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "20.25",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "20.25",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "230.00",
+						"rate": "124.20"
+					}
+				],
+				"priceToShowUsers": "124",
+				"strikethroughPriceToShowUsers": "230",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "250",
+				"totalMandatoryFees": "29.64",
+				"totalPriceWithMandatoryFees": "174.09",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "29.64"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 174.09",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "201430468",
+				"ratePlanCode": "207088788",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "29.64",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 289,
+							"bonus": 375,
+							"total": 664
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "405 Taylor St",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "Private sale: save 46%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "The Serrano Hotel is steps away from Union Square, perfectly positioned in the Theater District of San Francisco, 2 blocks from the Powell Street cable car.",
+			"hotelGuestRating": "4.0",
+			"hotelId": "12493",
+			"hotelName": "Serrano Hotel",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/20000/12500/12493/12493_248_d.jpg",
+			"latitude": "37.786182",
+			"localizedHotelName": "Serrano Hotel",
+			"longitude": "-122.411366",
+			"lowRate": "124.20",
+			"nonLocalizedName": "Serrano Hotel",
+			"notAvailableMessage": "",
+			"percentRecommended": "81",
+			"proximityDistanceInKiloMeters": "0.309",
+			"proximityDistanceInMiles": "0.1920447482908639",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3345",
+			"reviewTotal": "4148",
+			"roomsLeftAtThisRate": "2",
+			"shortDiscountMessage": "Save 46%",
+			"sortIndex": "3",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/20000/12500/12493/12493_248_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "170.10",
+				"averageRate": "170.10",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "27.99",
+				"surchargeTotalForEntireStay": "27.99",
+				"surchargesWithoutPropertyFee": "27.99",
+				"surchargesWithoutPropertyFeeForEntireStay": "27.99",
+				"averageBaseRate": "189.00",
+				"nightlyRateTotal": "170.10",
+				"discountPercent": -10,
+				"total": "198.09",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "27.99",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "27.99",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "189.00",
+						"rate": "170.10"
+					}
+				],
+				"priceToShowUsers": "170",
+				"strikethroughPriceToShowUsers": "189",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "217",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "198.09",
+				"formattedTotalPriceWithMandatoryFees": "$ 198.09",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "200128454",
+				"ratePlanCode": "200711763",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 396,
+							"bonus": 514,
+							"total": 910
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "750 Kearny St",
+				"postalCode": "94108"
+			},
+			"jsonHotelBrand": {
+				"brandId": "55",
+				"brandName": "Hilton Hotels"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "Private sale: save 10%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "This 27-story San Francisco Hilton hotel towers over the city's financial district, North Beach's Italian shops and cafés, Chinatown, and the Embarcadero Center. Financial District",
+			"hotelGuestRating": "4.0",
+			"hotelId": "4302",
+			"hotelName": "Hilton San Francisco Downtown/Financial District",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/10000/4400/4302/4302_107_d.jpg",
+			"latitude": "37.79503",
+			"localizedHotelName": "Hilton San Francisco Downtown/Financial District",
+			"locationId": "6056710",
+			"locationDescription": "Financial District",
+			"longitude": "-122.40486",
+			"lowRate": "170.10",
+			"nonLocalizedName": "Hilton San Francisco Downtown/Financial District",
+			"notAvailableMessage": "",
+			"percentRecommended": "82",
+			"proximityDistanceInKiloMeters": "0.8979999999999999",
+			"proximityDistanceInMiles": "0.5581106277190802",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "2667",
+			"reviewTotal": "3243",
+			"roomsLeftAtThisRate": "-1",
+			"shortDiscountMessage": "Save 10%",
+			"sortIndex": "4",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/10000/4400/4302/4302_107_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "89.49",
+				"averageRate": "89.49",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "13.49",
+				"surchargeTotalForEntireStay": "13.49",
+				"surchargesWithoutPropertyFee": "13.49",
+				"surchargesWithoutPropertyFeeForEntireStay": "13.49",
+				"averageBaseRate": "89.49",
+				"nightlyRateTotal": "89.49",
+				"discountPercent": 0,
+				"total": "102.98",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "13.49",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "13.49",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "89.49",
+						"rate": "89.49"
+					}
+				],
+				"priceToShowUsers": "89",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "102.98",
+				"formattedTotalPriceWithMandatoryFees": "$ 102.98",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201984821",
+				"ratePlanCode": "210130502",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 206,
+							"bonus": 267,
+							"total": 473
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "447 Valencia St",
+				"postalCode": "94103"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"amenities": [
+				{
+					"id": "2192",
+					"description": "Free Wireless Internet"
+				}
+			],
+			"airportCode": "",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located in Mission District, this hotel is within 1 mi (2 km) of U.S. Mint, Louise Davies Symphony Hall, and Asian Art Museum of San Francisco. University of California San Francisco and Twin Peaks are also within 3 mi (5 km). ",
+			"hotelGuestRating": "0.0",
+			"hotelId": "18529082",
+			"hotelName": "Hotel Sunrise",
+			"hotelStarRating": "2.0",
+			"hotelStarRatingCssClassName": "2-0",
+			"largeThumbnailUrl": "/hotels/19000000/18530000/18529100/18529082/6f697cf7_d.jpg",
+			"latitude": "37.76582",
+			"localizedHotelName": "Hotel Sunrise",
+			"longitude": "-122.42169",
+			"lowRate": "89.49",
+			"nonLocalizedName": "Hotel Sunrise",
+			"notAvailableMessage": "",
+			"percentRecommended": "0",
+			"proximityDistanceInKiloMeters": "2.676",
+			"proximityDistanceInMiles": "1.663144810441268",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "0",
+			"reviewTotal": "0",
+			"roomsLeftAtThisRate": "1",
+			"shortDiscountMessage": "",
+			"sortIndex": "5",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/19000000/18530000/18529100/18529082/6f697cf7_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "166.51",
+				"averageRate": "166.51",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "27.39",
+				"surchargeTotalForEntireStay": "27.39",
+				"surchargesWithoutPropertyFee": "27.39",
+				"surchargesWithoutPropertyFeeForEntireStay": "27.39",
+				"averageBaseRate": "166.51",
+				"nightlyRateTotal": "166.51",
+				"discountPercent": 0,
+				"total": "193.90",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "27.39",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "27.39",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "166.51",
+						"rate": "166.51"
+					}
+				],
+				"priceToShowUsers": "167",
+				"totalMandatoryFees": "25.62",
+				"totalPriceWithMandatoryFees": "219.52",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "25.62"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 219.52",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "200077215",
+				"ratePlanCode": "210021728",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "25.62",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 388,
+							"bonus": 504,
+							"total": 892
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "450 Powell Street",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "225",
+				"brandName": "Kimpton Hotels"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "This 1928 hotel is a half-block from San Francisco's Union Square, 3 blocks from the theater district, and a half-mile from the Financial District and Moscone Center.",
+			"hotelGuestRating": "3.9",
+			"hotelId": "15254",
+			"hotelName": "Kimpton Sir Francis Drake Hotel",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/20000/15300/15254/859aca2b_d.jpg",
+			"latitude": "37.788911",
+			"localizedHotelName": "Kimpton Sir Francis Drake Hotel",
+			"longitude": "-122.40857",
+			"lowRate": "166.51",
+			"nonLocalizedName": "Kimpton Sir Francis Drake Hotel",
+			"notAvailableMessage": "",
+			"percentRecommended": "79",
+			"proximityDistanceInKiloMeters": "0.171",
+			"proximityDistanceInMiles": "0.10627719080174022",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3193",
+			"reviewTotal": "4018",
+			"roomsLeftAtThisRate": "26",
+			"shortDiscountMessage": "",
+			"sortIndex": "6",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/20000/15300/15254/859aca2b_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "128.70",
+				"averageRate": "128.70",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "21.23",
+				"surchargeTotalForEntireStay": "21.23",
+				"surchargesWithoutPropertyFee": "21.23",
+				"surchargesWithoutPropertyFeeForEntireStay": "21.23",
+				"averageBaseRate": "143.00",
+				"nightlyRateTotal": "128.70",
+				"discountPercent": -10,
+				"total": "149.93",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "21.23",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "21.23",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "143.00",
+						"rate": "128.70"
+					}
+				],
+				"priceToShowUsers": "129",
+				"strikethroughPriceToShowUsers": "143",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "164",
+				"totalMandatoryFees": "22.80",
+				"totalPriceWithMandatoryFees": "172.73",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "22.80"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 172.73",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "200315530",
+				"ratePlanCode": "201915473",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "22.80",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 300,
+							"bonus": 390,
+							"total": 690
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "905 California Street",
+				"postalCode": "94108"
+			},
+			"jsonHotelBrand": {
+				"brandId": "3201",
+				"brandName": "Highgate Independent"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "Last minute deal: save 10%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Guests can indulge in high-end shops like Prada and Tiffany & Co at Union Square, 4 blocks away. Chinatown is 5 minutes on foot, and the American Conservatory Theater, winner of a Regional Theater Tony Award, is 6 blocks away. There is a cable car station steps across the street.",
+			"hotelGuestRating": "4.2",
+			"hotelId": "6271901",
+			"hotelName": "Stanford Court San Francisco",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/7000000/6280000/6272000/6271901/6271901_1_d.jpg",
+			"latitude": "37.791969",
+			"localizedHotelName": "Stanford Court San Francisco",
+			"longitude": "-122.409717",
+			"lowRate": "128.70",
+			"nonLocalizedName": "Stanford Court San Francisco",
+			"notAvailableMessage": "",
+			"percentRecommended": "87",
+			"proximityDistanceInKiloMeters": "0.525",
+			"proximityDistanceInMiles": "0.32628962088253577",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "2551",
+			"reviewTotal": "2924",
+			"roomsLeftAtThisRate": "105",
+			"shortDiscountMessage": "Save 10%",
+			"sortIndex": "7",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/7000000/6280000/6272000/6271901/6271901_1_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "209.45",
+				"averageRate": "209.45",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "34.45",
+				"surchargeTotalForEntireStay": "34.45",
+				"surchargesWithoutPropertyFee": "34.45",
+				"surchargesWithoutPropertyFeeForEntireStay": "34.45",
+				"averageBaseRate": "209.45",
+				"nightlyRateTotal": "209.45",
+				"discountPercent": 0,
+				"total": "243.90",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "34.45",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "34.45",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "209.45",
+						"rate": "209.45"
+					}
+				],
+				"priceToShowUsers": "209",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "243.90",
+				"formattedTotalPriceWithMandatoryFees": "$ 243.90",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "14738",
+				"ratePlanCode": "14738",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 488,
+							"bonus": 634,
+							"total": 1122
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "222 Mason St",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "94",
+				"brandName": "Nikko"
+			},
+			"airportCode": "SFO",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "The Asian-inspired Hotel Nikko San Francisco is located downtown, a 4-minute walk from Union Square and the designer shops of Westfield San Francisco Centre. Guests can catch a cable car 2 blocks south, and both Curran Theatre and American Conservatory Theater are right around the corner.",
+			"hotelGuestRating": "4.3",
+			"hotelId": "23406",
+			"hotelName": "Hotel Nikko San Francisco",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/30000/23500/23406/23406_130_d.jpg",
+			"latitude": "37.785683",
+			"localizedHotelName": "Hotel Nikko San Francisco",
+			"longitude": "-122.409575",
+			"lowRate": "209.45",
+			"nonLocalizedName": "Hotel Nikko San Francisco",
+			"notAvailableMessage": "",
+			"percentRecommended": "90",
+			"proximityDistanceInKiloMeters": "0.226",
+			"proximityDistanceInMiles": "0.14045991298943444",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "5643",
+			"reviewTotal": "6280",
+			"roomsLeftAtThisRate": "18",
+			"shortDiscountMessage": "",
+			"sortIndex": "8",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/30000/23500/23406/23406_130_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "132.45",
+				"averageRate": "132.45",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "21.78",
+				"surchargeTotalForEntireStay": "21.78",
+				"surchargesWithoutPropertyFee": "21.78",
+				"surchargesWithoutPropertyFeeForEntireStay": "21.78",
+				"averageBaseRate": "198.99",
+				"nightlyRateTotal": "132.45",
+				"discountPercent": -33,
+				"total": "154.23",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "21.78",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "21.78",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "198.99",
+						"rate": "132.45"
+					}
+				],
+				"priceToShowUsers": "132",
+				"strikethroughPriceToShowUsers": "199",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "221",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "154.23",
+				"formattedTotalPriceWithMandatoryFees": "$ 154.23",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "284216",
+				"ratePlanCode": "831901",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 308,
+							"bonus": 400,
+							"total": 708
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "San Francisco",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "351 Geary St",
+				"postalCode": "94102"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"amenities": [
+				{
+					"id": "2192",
+					"description": "Free Wireless Internet"
+				}
+			],
+			"airportCode": "SFO",
+			"discountMessage": "Private sale: save 34%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "A half-block from cable cars, this hotel is 2 blocks from Westfield San Francisco Shopping Centre; the Moscone Center and the San Francisco Museum of Modern Art are 8 blocks away.",
+			"hotelGuestRating": "4.0",
+			"hotelId": "6666",
+			"hotelName": "Handlery Union Square Hotel",
+			"hotelStarRating": "3.5",
+			"hotelStarRatingCssClassName": "3-5",
+			"largeThumbnailUrl": "/hotels/1000000/10000/6700/6666/b9b43d8b_d.jpg",
+			"latitude": "37.78733",
+			"localizedHotelName": "Handlery Union Square Hotel",
+			"longitude": "-122.40902",
+			"lowRate": "132.45",
+			"nonLocalizedName": "Handlery Union Square Hotel",
+			"notAvailableMessage": "",
+			"percentRecommended": "86",
+			"proximityDistanceInKiloMeters": "0.072",
+			"proximityDistanceInMiles": "0.044748290863890615",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3745",
+			"reviewTotal": "4334",
+			"roomsLeftAtThisRate": "20",
+			"shortDiscountMessage": "Save 34%",
+			"sortIndex": "9",
+			"stateProvinceCode": "CA",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/10000/6700/6666/b9b43d8b_n.jpg"
+		}
+	]
+}

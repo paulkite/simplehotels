@@ -1,0 +1,1184 @@
+{
+	"hotels": [
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "139.43",
+				"averageRate": "139.43",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "24.41",
+				"surchargeTotalForEntireStay": "24.41",
+				"surchargesWithoutPropertyFee": "24.41",
+				"surchargesWithoutPropertyFeeForEntireStay": "24.41",
+				"averageBaseRate": "199.13",
+				"nightlyRateTotal": "139.43",
+				"discountPercent": -30,
+				"total": "163.84",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "24.41",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "24.41",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "199.13",
+						"rate": "139.43"
+					}
+				],
+				"priceToShowUsers": "139",
+				"strikethroughPriceToShowUsers": "199",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "224",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "163.84",
+				"formattedTotalPriceWithMandatoryFees": "$ 163.84",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "200206629",
+				"ratePlanCode": "201178860",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 328,
+							"bonus": 426,
+							"total": 754
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "55 East Ontario Street",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "2646",
+				"brandName": "Affinia"
+			},
+			"airportCode": "ORD",
+			"discountMessage": "Save 30%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Right on Magnificent Mile, The James Chicago puts guests in the middle of Chicago's famed shopping district filled with boutiques and restaurants. A 5-minute drive is all it takes to get to Millennium Park or the Museum of Contemporary Art. Magnificent Mile",
+			"hotelGuestRating": "4.6",
+			"hotelId": "26728",
+			"hotelName": "The James Chicago",
+			"hotelStarRating": "4.5",
+			"hotelStarRatingCssClassName": "4-5",
+			"largeThumbnailUrl": "/hotels/1000000/30000/26800/26728/26728_286_d.jpg",
+			"latitude": "41.893313",
+			"localizedHotelName": "The James Chicago",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.625734",
+			"lowRate": "139.43",
+			"nonLocalizedName": "The James Chicago",
+			"notAvailableMessage": "",
+			"percentRecommended": "93",
+			"proximityDistanceInKiloMeters": "1.408",
+			"proximityDistanceInMiles": "0.875077688004972",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3052",
+			"reviewTotal": "3266",
+			"roomsLeftAtThisRate": "41",
+			"shortDiscountMessage": "Save 30%",
+			"sortIndex": "0",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/30000/26800/26728/26728_286_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "103.20",
+				"averageRate": "103.20",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "17.41",
+				"surchargeTotalForEntireStay": "17.41",
+				"surchargesWithoutPropertyFee": "17.41",
+				"surchargesWithoutPropertyFeeForEntireStay": "17.41",
+				"averageBaseRate": "129.00",
+				"nightlyRateTotal": "103.20",
+				"discountPercent": -20,
+				"total": "120.61",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "17.41",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "17.41",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "129.00",
+						"rate": "103.20"
+					}
+				],
+				"priceToShowUsers": "103",
+				"strikethroughPriceToShowUsers": "129",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "146",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "120.61",
+				"formattedTotalPriceWithMandatoryFees": "$ 120.61",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201284275",
+				"ratePlanCode": "206221389",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 241,
+							"bonus": 313,
+							"total": 554
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "105 E Delaware Pl",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"airportCode": "MDW",
+			"discountMessage": "Private sale: save 20%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Built in 1927, this Chicago hotel is one block from Michigan Avenue shopping and Rush Street restaurants and nightlife; Lake Michigan is within five blocks.
+ Magnificent Mile",
+			"hotelGuestRating": "4.1",
+			"hotelId": "17903",
+			"hotelName": "The Whitehall Hotel",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/20000/18000/17903/17903_75_d.jpg",
+			"latitude": "41.89916",
+			"localizedHotelName": "The Whitehall Hotel",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.62569",
+			"lowRate": "103.20",
+			"nonLocalizedName": "The Whitehall Hotel",
+			"notAvailableMessage": "",
+			"percentRecommended": "85",
+			"proximityDistanceInKiloMeters": "2.054",
+			"proximityDistanceInMiles": "1.276569297700435",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "5819",
+			"reviewTotal": "6829",
+			"roomsLeftAtThisRate": "4",
+			"shortDiscountMessage": "Save 20%",
+			"sortIndex": "1",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/20000/18000/17903/17903_75_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "90.47",
+				"averageRate": "90.47",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "15.79",
+				"surchargeTotalForEntireStay": "15.79",
+				"surchargesWithoutPropertyFee": "15.79",
+				"surchargesWithoutPropertyFeeForEntireStay": "15.79",
+				"averageBaseRate": "128.94",
+				"nightlyRateTotal": "90.47",
+				"discountPercent": -30,
+				"total": "106.26",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "15.79",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "15.79",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "128.94",
+						"rate": "90.47"
+					}
+				],
+				"priceToShowUsers": "90",
+				"strikethroughPriceToShowUsers": "129",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "145",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "106.26",
+				"formattedTotalPriceWithMandatoryFees": "$ 106.26",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "289671",
+				"ratePlanCode": "855103",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 213,
+							"bonus": 276,
+							"total": 489
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "111 W Huron St",
+				"postalCode": "60654"
+			},
+			"jsonHotelBrand": {
+				"brandId": "0",
+				"brandName": "Independent"
+			},
+			"amenities": [
+				{
+					"id": "2191",
+					"description": "Free High-Speed Internet"
+				}
+			],
+			"airportCode": "ORD",
+			"discountMessage": "Save 30%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Hotel Felix Chicago is 5 blocks from the Magnificent Mile, one of America’s most dazzling thoroughfares. It’s a 7-minute cab ride to the Navy Pier Ferris Wheel, whose 40 gondolas command unmatched skyline and lake views. Chicago-Red Metro Station is a 6-minute walk from the hotel. Magnificent Mile",
+			"hotelGuestRating": "4.1",
+			"hotelId": "2222364",
+			"hotelName": "Hotel Felix Chicago",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/3000000/2230000/2222400/2222364/8ed4f855_d.jpg",
+			"latitude": "41.89485",
+			"localizedHotelName": "Hotel Felix Chicago",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.63164",
+			"lowRate": "90.47",
+			"nonLocalizedName": "Hotel Felix Chicago",
+			"notAvailableMessage": "",
+			"percentRecommended": "82",
+			"proximityDistanceInKiloMeters": "1.591",
+			"proximityDistanceInMiles": "0.9888129272840274",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "2909",
+			"reviewTotal": "3556",
+			"roomsLeftAtThisRate": "24",
+			"shortDiscountMessage": "Save 30%",
+			"sortIndex": "2",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/3000000/2230000/2222400/2222364/8ed4f855_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "104.00",
+				"averageRate": "104.00",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "17.70",
+				"surchargeTotalForEntireStay": "17.70",
+				"surchargesWithoutPropertyFee": "17.70",
+				"surchargesWithoutPropertyFeeForEntireStay": "17.70",
+				"averageBaseRate": "130.00",
+				"nightlyRateTotal": "104.00",
+				"discountPercent": -20,
+				"total": "121.70",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "17.70",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "17.70",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "130.00",
+						"rate": "104.00"
+					}
+				],
+				"priceToShowUsers": "104",
+				"strikethroughPriceToShowUsers": "130",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "148",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "121.70",
+				"formattedTotalPriceWithMandatoryFees": "$ 121.70",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201843633",
+				"ratePlanCode": "209349765",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 243,
+							"bonus": 315,
+							"total": 558
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "162 E Ohio St",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "3201",
+				"brandName": "Highgate Independent"
+			},
+			"airportCode": "MDW",
+			"discountMessage": "Tonight only: save 20%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Inn of Chicago is a half-block from the Magnificent Mile and 2 blocks from the landmark Tribune Tower. Millennium Park, Navy Pier, and the Art Institute of Chicago are among the many attractions within 1 mile. Magnificent Mile",
+			"hotelGuestRating": "3.7",
+			"hotelId": "11379",
+			"hotelName": "Inn of Chicago",
+			"hotelStarRating": "3.0",
+			"hotelStarRatingCssClassName": "3-0",
+			"largeThumbnailUrl": "/hotels/1000000/20000/11400/11379/947a7bc3_d.jpg",
+			"latitude": "41.892559",
+			"localizedHotelName": "Inn of Chicago",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.622898",
+			"lowRate": "104.00",
+			"nonLocalizedName": "Inn of Chicago",
+			"notAvailableMessage": "",
+			"percentRecommended": "77",
+			"proximityDistanceInKiloMeters": "1.379",
+			"proximityDistanceInMiles": "0.8570540708514606",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "4371",
+			"reviewTotal": "5701",
+			"roomsLeftAtThisRate": "2",
+			"shortDiscountMessage": "Save 20%",
+			"sortIndex": "3",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/20000/11400/11379/947a7bc3_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": true,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "310.50",
+				"averageRate": "310.50",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "55.22",
+				"surchargeTotalForEntireStay": "55.22",
+				"surchargesWithoutPropertyFee": "55.22",
+				"surchargesWithoutPropertyFeeForEntireStay": "55.22",
+				"averageBaseRate": "345.00",
+				"nightlyRateTotal": "310.50",
+				"discountPercent": -10,
+				"total": "365.72",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "55.22",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "55.22",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "345.00",
+						"rate": "310.50"
+					}
+				],
+				"priceToShowUsers": "311",
+				"strikethroughPriceToShowUsers": "345",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "400",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "365.72",
+				"formattedTotalPriceWithMandatoryFees": "$ 365.72",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "200447674",
+				"ratePlanCode": "204801477",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 731,
+							"bonus": 950,
+							"total": 1681
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "401 N Wabash Ave",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "2878",
+				"brandName": "Trump International"
+			},
+			"airportCode": "ORD",
+			"discountMessage": "Private sale: save 10%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located in Near North Side, this family-friendly Chicago hotel is within a 5-minute walk of Wrigley Building and Tribune Tower. Chicago Theater and Ford Center for the Performing Arts Oriental Theatre are also within 10 minutes.  Magnificent Mile",
+			"hotelGuestRating": "4.8",
+			"hotelId": "1723215",
+			"hotelName": "Trump International Hotel & Tower Chicago",
+			"hotelStarRating": "5.0",
+			"hotelStarRatingCssClassName": "5-0",
+			"largeThumbnailUrl": "/hotels/2000000/1730000/1723300/1723215/ead0218d_d.jpg",
+			"latitude": "41.88925",
+			"localizedHotelName": "Trump International Hotel & Tower Chicago",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.62673",
+			"lowRate": "310.50",
+			"nonLocalizedName": "Trump International Hotel & Tower Chicago",
+			"notAvailableMessage": "",
+			"percentRecommended": "95",
+			"proximityDistanceInKiloMeters": "0.949",
+			"proximityDistanceInMiles": "0.5898073337476694",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "1557",
+			"reviewTotal": "1644",
+			"roomsLeftAtThisRate": "51",
+			"shortDiscountMessage": "Save 10%",
+			"sortIndex": "4",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/2000000/1730000/1723300/1723215/ead0218d_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "139.01",
+				"averageRate": "139.01",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "23.63",
+				"surchargeTotalForEntireStay": "23.63",
+				"surchargesWithoutPropertyFee": "23.63",
+				"surchargesWithoutPropertyFeeForEntireStay": "23.63",
+				"averageBaseRate": "139.01",
+				"nightlyRateTotal": "139.01",
+				"discountPercent": 0,
+				"total": "162.64",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "23.63",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "23.63",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "139.01",
+						"rate": "139.01"
+					}
+				],
+				"priceToShowUsers": "139",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "162.64",
+				"formattedTotalPriceWithMandatoryFees": "$ 162.64",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201988768",
+				"ratePlanCode": "210148070",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 325,
+							"bonus": 422,
+							"total": 747
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Bolingbrook",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "180 Remington Boulevard",
+				"postalCode": "60440"
+			},
+			"jsonHotelBrand": {
+				"brandId": "114",
+				"brandName": "Residence Inn"
+			},
+			"amenities": [
+				{
+					"id": "2103",
+					"description": "Continental Breakfast"
+				},
+				{
+					"id": "2191",
+					"description": "Free High-Speed Internet"
+				},
+				{
+					"id": "2208",
+					"description": "Full Kitchen"
+				}
+			],
+			"airportCode": "",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Situated in Bolingbrook, this hotel is 2.4 mi (3.9 km) from Boughton Ridge Golf Course and within 6 mi (10 km) of Promenade Bolingbrook and Bolingbrook Golf Club. Seven Bridges Golf Club and Lewis University are also within 9 mi (15 km).  Bolingbrook",
+			"hotelGuestRating": "0.0",
+			"hotelId": "18518782",
+			"hotelName": "Residence Inn by Marriott Chicago Bolingbrook",
+			"hotelStarRating": "3.0",
+			"hotelStarRatingCssClassName": "3-0",
+			"largeThumbnailUrl": "/hotels/19000000/18520000/18518800/18518782/460600d5_d.jpg",
+			"latitude": "41.68733",
+			"localizedHotelName": "Residence Inn by Marriott Chicago Bolingbrook",
+			"locationId": "6350700",
+			"locationDescription": "Bolingbrook",
+			"longitude": "-88.070835",
+			"lowRate": "139.01",
+			"nonLocalizedName": "Residence Inn by Marriott Chicago Bolingbrook",
+			"notAvailableMessage": "",
+			"percentRecommended": "0",
+			"proximityDistanceInKiloMeters": "42.543",
+			"proximityDistanceInMiles": "26.440646364201367",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "0",
+			"reviewTotal": "0",
+			"roomsLeftAtThisRate": "5",
+			"shortDiscountMessage": "",
+			"sortIndex": "5",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/19000000/18520000/18518800/18518782/460600d5_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": true,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": true,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "99.00",
+				"averageRate": "99.00",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "17.24",
+				"surchargeTotalForEntireStay": "17.24",
+				"surchargesWithoutPropertyFee": "17.24",
+				"surchargesWithoutPropertyFeeForEntireStay": "17.24",
+				"averageBaseRate": "99.00",
+				"nightlyRateTotal": "99.00",
+				"discountPercent": 0,
+				"total": "116.24",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "17.24",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "17.24",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "99.00",
+						"rate": "99.00"
+					}
+				],
+				"priceToShowUsers": "99",
+				"depositAmountToShowUsers": "112",
+				"priceRemainingAfterDepositToShowUsers": "4",
+				"depositAmountExact": "$ 111.78",
+				"depositAmount": "111.78",
+				"priceRemainingAfterDepositExact": "$ 4.46",
+				"priceRemainingAfterDeposit": "4.46",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "116.24",
+				"formattedTotalPriceWithMandatoryFees": "$ 116.24",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201774194",
+				"ratePlanCode": "208869228",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 232,
+							"bonus": 301,
+							"total": 533
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "701 North Michigan Avenue",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "2296",
+				"brandName": "Warwick Owned"
+			},
+			"airportCode": "ORD",
+			"discountMessage": "Mobile exclusive price",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located on Michigan Avenue in the middle of Chicago&#39;s Magnificent Mile, this 1920s Italian Renaissance hotel is surrounded by fashionable shops, 1 mile from Lake Michigan and the Art Institute. Magnificent Mile",
+			"hotelGuestRating": "4.1",
+			"hotelId": "25452",
+			"hotelName": "Warwick Allerton Hotel Chicago",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/30000/25500/25452/25452_159_d.jpg",
+			"latitude": "41.894943",
+			"localizedHotelName": "Warwick Allerton Hotel Chicago",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.623732",
+			"lowRate": "99.00",
+			"nonLocalizedName": "Warwick Allerton Hotel Chicago",
+			"notAvailableMessage": "",
+			"percentRecommended": "84",
+			"proximityDistanceInKiloMeters": "1.6160000000000003",
+			"proximityDistanceInMiles": "1.004350528278434",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "6653",
+			"reviewTotal": "7874",
+			"roomsLeftAtThisRate": "114",
+			"shortDiscountMessage": "Promo",
+			"sortIndex": "6",
+			"stateProvinceCode": "IL",
+			"supplierType": "DIRECT_AGENCY",
+			"thumbnailUrl": "/hotels/1000000/30000/25500/25452/25452_159_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "179.00",
+				"averageRate": "179.00",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "31.35",
+				"surchargeTotalForEntireStay": "31.35",
+				"surchargesWithoutPropertyFee": "31.35",
+				"surchargesWithoutPropertyFeeForEntireStay": "31.35",
+				"averageBaseRate": "179.00",
+				"nightlyRateTotal": "179.00",
+				"discountPercent": 0,
+				"total": "210.35",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "31.35",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "31.35",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "false",
+						"baseRate": "179.00",
+						"rate": "179.00"
+					}
+				],
+				"priceToShowUsers": "179",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "210.35",
+				"formattedTotalPriceWithMandatoryFees": "$ 210.35",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "201011900",
+				"ratePlanCode": "208384677",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 421,
+							"bonus": 547,
+							"total": 968
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "455 North Park Drive",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "85",
+				"brandName": "Loews"
+			},
+			"airportCode": "CHI",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located in Near North Side, this luxury hotel is within a 10-minute walk of Tribune Tower and Wrigley Building. Navy Pier and Chicago Children's Museum are also within 15 minutes.  Magnificent Mile",
+			"hotelGuestRating": "4.7",
+			"hotelId": "9059537",
+			"hotelName": "Loews Chicago Hotel",
+			"hotelStarRating": "4.5",
+			"hotelStarRatingCssClassName": "4-5",
+			"largeThumbnailUrl": "/hotels/10000000/9060000/9059600/9059537/9059537_195_d.jpg",
+			"latitude": "41.890182",
+			"localizedHotelName": "Loews Chicago Hotel",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.619589",
+			"lowRate": "179.00",
+			"nonLocalizedName": "Loews Chicago Hotel",
+			"notAvailableMessage": "",
+			"percentRecommended": "95",
+			"proximityDistanceInKiloMeters": "1.262",
+			"proximityDistanceInMiles": "0.7843380981976383",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "751",
+			"reviewTotal": "790",
+			"roomsLeftAtThisRate": "189",
+			"shortDiscountMessage": "",
+			"sortIndex": "7",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/10000000/9060000/9059600/9059537/9059537_195_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": true,
+			"lowRateInfo": {
+				"maxNightlyRate": "106.82",
+				"averageRate": "106.82",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "18.51",
+				"surchargeTotalForEntireStay": "18.51",
+				"surchargesWithoutPropertyFee": "18.51",
+				"surchargesWithoutPropertyFeeForEntireStay": "18.51",
+				"averageBaseRate": "109.00",
+				"nightlyRateTotal": "106.82",
+				"discountPercent": -2,
+				"total": "125.33",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "18.51",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "18.51",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "109.00",
+						"rate": "106.82"
+					}
+				],
+				"priceToShowUsers": "107",
+				"strikethroughPriceToShowUsers": "109",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "128",
+				"totalMandatoryFees": "6.95",
+				"totalPriceWithMandatoryFees": "132.28",
+				"mandatoryFees": [
+					{
+						"feeName": "Resort fee",
+						"amount": "6.95"
+					}
+				],
+				"formattedTotalPriceWithMandatoryFees": "$ 132.28",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "totalPriceWithMandatoryFees",
+				"airAttached": false,
+				"roomTypeCode": "201765802",
+				"ratePlanCode": "208810628",
+				"showResortFeeMessage": true,
+				"resortFeeInclusion": false,
+				"dailyMandatoryFee": "6.95",
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 251,
+							"bonus": 326,
+							"total": 577
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "166 E Superior Street",
+				"postalCode": "60611"
+			},
+			"jsonHotelBrand": {
+				"brandId": "2421",
+				"brandName": "CAMBRiA hotel & suites"
+			},
+			"amenities": [
+				{
+					"id": "2192",
+					"description": "Free Wireless Internet"
+				}
+			],
+			"airportCode": "MDW",
+			"discountMessage": "",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located in Near North Side, this boutique hotel is steps from Northwestern Memorial Hospital and Ann and Robert H. Lurie Children's Hospital. Water Tower Place and Northwestern University are also within 16 mi (25 km).  Magnificent Mile",
+			"hotelGuestRating": "4.4",
+			"hotelId": "21619",
+			"hotelName": "Cambria Hotel & Suites Chicago Magnificent Mile",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/30000/21700/21619/4d35a0ce_d.jpg",
+			"latitude": "41.89574",
+			"localizedHotelName": "Cambria Hotel & Suites Chicago Magnificent Mile",
+			"locationId": "800025",
+			"locationDescription": "Magnificent Mile",
+			"longitude": "-87.6227",
+			"lowRate": "106.82",
+			"nonLocalizedName": "Cambria Hotel & Suites Chicago Magnificent Mile",
+			"notAvailableMessage": "",
+			"percentRecommended": "93",
+			"proximityDistanceInKiloMeters": "1.7230000000000003",
+			"proximityDistanceInMiles": "1.0708514605344936",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "4639",
+			"reviewTotal": "5011",
+			"roomsLeftAtThisRate": "-1",
+			"shortDiscountMessage": "",
+			"sortIndex": "8",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/30000/21700/21619/4d35a0ce_n.jpg"
+		},
+		{
+			"available": true,
+			"didGetBackHighestPriceFromSurvey": false,
+			"hasFreeCancellation": false,
+			"isDiscountRestrictedToCurrentSourceType": false,
+			"isDudley": false,
+			"isMemberDeal": false,
+			"isMobileExclusive": false,
+			"isPaymentChoiceAvailable": false,
+			"isSameDayDRR": false,
+			"isShowEtpChoice": false,
+			"isSponsoredListing": false,
+			"vip": false,
+			"lowRateInfo": {
+				"maxNightlyRate": "108.75",
+				"averageRate": "108.75",
+				"taxStatusType": "ESTIMATED",
+				"surchargeTotal": "19.04",
+				"surchargeTotalForEntireStay": "19.04",
+				"surchargesWithoutPropertyFee": "19.04",
+				"surchargesWithoutPropertyFeeForEntireStay": "19.04",
+				"averageBaseRate": "145.00",
+				"nightlyRateTotal": "108.75",
+				"discountPercent": -25,
+				"total": "127.79",
+				"currencyCode": "USD",
+				"currencySymbol": "$",
+				"surcharges": [
+					{
+						"amount": "19.04",
+						"type": "TAX_ALL"
+					}
+				],
+				"surchargesForEntireStay": [
+					{
+						"amount": "19.04",
+						"type": "TAX_ALL"
+					}
+				],
+				"nightlyRatesPerRoom": [
+					{
+						"promo": "true",
+						"baseRate": "145.00",
+						"rate": "108.75"
+					}
+				],
+				"priceToShowUsers": "109",
+				"strikethroughPriceToShowUsers": "145",
+				"strikethroughPriceWithTaxesAndFeesToShowUsers": "164",
+				"totalMandatoryFees": "0.00",
+				"totalPriceWithMandatoryFees": "127.79",
+				"formattedTotalPriceWithMandatoryFees": "$ 127.79",
+				"userPriceType": "PerNightRateNoTaxes",
+				"priceAdjustments": [],
+				"checkoutPriceType": "total",
+				"airAttached": false,
+				"roomTypeCode": "200196443",
+				"ratePlanCode": "209736710",
+				"showResortFeeMessage": false,
+				"resortFeeInclusion": false,
+				"loyaltyInfo": {
+					"earn": {
+						"points": {
+							"base": 256,
+							"bonus": 332,
+							"total": 588
+						}
+					},
+					"isBurnApplied": false
+				}
+			},
+			"hotelAddress": {
+				"city": "Chicago",
+				"countryAlpha3Code": "USA",
+				"countryName": "United States of America",
+				"firstAddressLine": "171 W Randolph St",
+				"postalCode": "60601"
+			},
+			"jsonHotelBrand": {
+				"brandId": "225",
+				"brandName": "Kimpton Hotels"
+			},
+			"amenities": [
+				{
+					"id": "2192",
+					"description": "Free Wireless Internet"
+				}
+			],
+			"airportCode": "ORD",
+			"discountMessage": "Save 25%",
+			"distanceUnit": "Miles",
+			"hotelDescription": "Located in the Loop's theater and business districts, Kimpton Hotel Allegro is next to the Cadillac Palace Theatre, 4 blocks from Millennium Park, and 1 mile from the Magnificent Mile. The Loop",
+			"hotelGuestRating": "4.3",
+			"hotelId": "34496",
+			"hotelName": "Kimpton Hotel Allegro",
+			"hotelStarRating": "4.0",
+			"hotelStarRatingCssClassName": "4-0",
+			"largeThumbnailUrl": "/hotels/1000000/40000/34500/34496/34496_217_d.jpg",
+			"latitude": "41.884497",
+			"localizedHotelName": "Kimpton Hotel Allegro",
+			"locationId": "800024",
+			"locationDescription": "The Loop",
+			"longitude": "-87.633444",
+			"lowRate": "108.75",
+			"nonLocalizedName": "Kimpton Hotel Allegro",
+			"notAvailableMessage": "",
+			"percentRecommended": "89",
+			"proximityDistanceInKiloMeters": "0.604",
+			"proximityDistanceInMiles": "0.37538844002486016",
+			"rateCurrencyCode": "USD",
+			"rateCurrencySymbol": "$",
+			"recommendationTotal": "3398",
+			"reviewTotal": "3808",
+			"roomsLeftAtThisRate": "1",
+			"shortDiscountMessage": "Save 25%",
+			"sortIndex": "9",
+			"stateProvinceCode": "IL",
+			"supplierType": "MERCHANT",
+			"thumbnailUrl": "/hotels/1000000/40000/34500/34496/34496_217_n.jpg"
+		}
+	]
+}
