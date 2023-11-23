@@ -9,8 +9,8 @@ The app should contain the following 3 view controllers:
 
 1) A list view (table view) of hotels with a segmented control or button to switch between hotels from 2 different cities: San Francisco and Chicago. The data you should display can be found at the following URLs:
 
-https://raw.githubusercontent.com/paulkite/simplehotels/master/responses/chicago-hotels.json
-https://raw.githubusercontent.com/paulkite/simplehotels/master/responses/san-francisco-hotels.json
+https://a.travel-assets.com/mobile/json/chicago-hotels.json
+https://a.travel-assets.com/mobile/json/san-francisco-hotels.json
 
 This is real data and is an example of what we consume in the Expedia app. Do not ship the app with this data. Do not cache this data. Each time you want to display this data the app should download it, parse it, and then display it to the user. How you decide to do this is up to you.
 
